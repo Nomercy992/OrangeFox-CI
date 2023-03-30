@@ -14,6 +14,7 @@ export OEM="infinix"
 export TARGET="bootimage"
 
 export OUTPUT="OrangeFox*.zip"
+export OUTPUT="OrangeFox*.img"
 
 # Additional Dependencies (eg: Kernel Source)
 # Format: "repo dest"
