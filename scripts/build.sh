@@ -36,7 +36,7 @@ fi
 
 echo -e \
 "
-🦊 OrangeFox Recovery CLI
+🦊 OrangeFox Recovery CI
 
 ✔️ The Build has been Triggered!
 
