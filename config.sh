@@ -2,9 +2,9 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/Nomercy992/Fox_device_Infinix_X689 -b A11"
+export DT_LINK="https://github.com/Nomercy992/device_infinix_X6812 -b master"
 
-export DEVICE="X689"
+export DEVICE="X6812"
 export OEM="infinix"
 
 # Build Target
